@@ -1,0 +1,25 @@
+[
+  {"message": "Remind me to submit the project report tomorrow at 10 AM"},
+  {"message": "Set a high-priority reminder for paying my rent on the 1st of next month"},
+  {"message": "Notify me if I haven’t completed my top tasks by 6 PM"},
+  {"message": "Remind me every morning to review my goals"},
+  {"message": "Create a low-priority reminder to water my plants every two days"},
+  {"message": "Alert me if a deadline is approaching within 24 hours"},
+  {"message": "Prompt me to take a break every two hours"},
+  {"message": "Warn me if my daily tasks exceed five items"},
+  {"message": "Remind me in one week to renew my gym membership"},
+  {"message": "Send me a reminder to call my mom this evening"},
+
+
+  {"message": "Create a task: Prepare monthly budget"},
+  {"message": "Add a task to follow up with the design team on Friday"},
+  {"message": "Mark my task Clean inbox as completed"},
+  {"message": "Move my task Book hotel to next week"},
+  {"message": "Delete the task Buy printer ink"},
+  {"message": "What tasks do I have pending for today?"},
+  {"message": "List my upcoming deadlines for this week"},
+  {"message": "Group my tasks by priority"},
+  {"message": "Create a recurring task: Backup files weekly"},
+  {"message": "Create a task to research two new tools for productivity"}
+]
+
