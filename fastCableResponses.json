@@ -1,0 +1,14 @@
+[
+  {
+    "request": {
+      "query": "What is the URL of the chat API in gethardmoney.py?"
+    },
+    "response": {
+      "answer": "I'm here to help with hard money loans and house flipping questions, but it looks like your inquiry is about a technical detail related to programming. If you have any questions regarding property financing, house flipping, or our loan options, feel free to ask! How can I assist you today?",
+      "source": "gpt",
+      "session_id": null,
+      "clarification": null,
+      "calculator_step": null
+    }
+  }
+]
